@@ -1,0 +1,23 @@
+#calculator {
+    margin: 0 auto;
+    width: 300px;
+  }
+  
+  #display {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  #numbers {
+    width: 100%;
+  }
+  
+  #numbers button {
+    width: 25%;
+    padding: 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 18px
+  }  
